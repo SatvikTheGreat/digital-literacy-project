@@ -1,6 +1,6 @@
 # **Email 1: Requesting an Extension**
 
-Subject: Extension Request: Digital Literacy Project - Prateek Kumar (25MIM10214)
+Subject: Extension Request: Digital Literacy Project - Satvik Thussu
 
 Dear Professor,
 
@@ -10,14 +10,12 @@ I apologize for any inconvenience this may cause and appreciate your considerati
 
 Best regards,
 
-Prateek Kumar Integrated Mtech AI, 1st Year
-
-Registration No: 25MIM10214
+Satvik Thussu Integrated Mtech AI, 1st Year
 
 VIT Bhopal University
 
 # **Email 2: Internship Inquiry**
-Subject: Internship Inquiry - Prateek Kumar - VIT Bhopal
+Subject: Internship Inquiry - Satvik Thussu - VIT Bhopal
 
 Dear Internship Coordinator,
 
@@ -29,6 +27,6 @@ Thank you for your time and I look forward to hearing from you.
 
 Sincerely,
 
-Prateek Kumar Integrated Mtech AI, 1st Year
+Satvik Thussu Integrated Mtech AI, 1st Year
 
 VIT Bhopal University
